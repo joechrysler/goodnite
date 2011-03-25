@@ -1,0 +1,4 @@
+<zimlet name="com_zimbra_grace" version="1.0" description="Grace Logins Listing">
+  <include>grace.js</include>
+  <handlerObject>zmGrace</handlerObject>
+</zimlet>
