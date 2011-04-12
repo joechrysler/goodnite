@@ -1,0 +1,6 @@
+<zimletConfig name="com_svsu_grace" version="1.0">
+  <global>
+    <property name="allowedDomains">*.zimbra.com</property>
+    <property name="debug">false</property>
+  </global>
+</zimletConfig>
