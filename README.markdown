@@ -1,5 +1,3 @@
-Hi there!
-
 #goodnite
 is a pretty simple zimlet built for the Zimbra Collaboration Suite (version 6) that looks at your school's ldap database and tells a user if it's time for them to reset their password.
 
